@@ -56,7 +56,7 @@
    ```
 
 2. **准备第三方库**
-   - `3rdparty/ffmpeg-rockchip`、`3rdparty/rga`、`3rdparty/nats.c` 已集成。
+   - `3rdparty/ffmpeg-rockchip`、`3rdparty/rga`、`3rdparty/nats.c` 已集成（未上传，需自行编译安装）。
    - 如需自定义 OpenCV，可自行编译或安装系统包。
 
 3. **编译项目**
