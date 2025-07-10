@@ -25,10 +25,6 @@
 │   ├── io/             # NATS/UDP通信
 │   ├── utils/          # 工具类（如帧率统计等）
 │   └── ...             # 其他功能模块
-├── 3rdparty/           # 第三方依赖库
-│   ├── ffmpeg-rockchip/ # Rockchip专用ffmpeg
-│   ├── nats.c/         # NATS C客户端
-│   └── rga/            # RGA库
 ├── librknn_api/        # RKNN推理API
 ├── CMakeLists.txt      # 构建脚本
 └── ...
